@@ -1,29 +1,28 @@
-# 📚 PHỤ LỤC — NỮ Y ĐẠI VIỆT HỒN XUYÊN (400 CHƯƠNG)
-**Folder phục vụ người đọc & biên tập — tách khỏi bản thảo để nâng cấp độc lập.**
+# 📚 PHỤ LỤC THUẬT NGỮ — NỮ Y ĐẠI VIỆT HỒN XUYÊN
+**Bảng tra nhỏ dành cho người đọc: giải thích các thuật ngữ, danh xưng, đơn vị đo, y thuật, nghề gốm xuất hiện trong truyện.**
 
-> Truyện cổ thời Trần (1280–1292) cần bản phụ lục giúp người đọc nắm **phong thổ nhân tình**,
-> **nhân vật**, **y đạo**, **nghề gốm** — không phải lật lại 400 chương để tra một từ.
+> Truyện cổ thời Trần (1280–1292) dùng nhiều thuật ngữ xưa. Phụ lục này giúp bạn
+> tra nhanh một từ khi đọc, **không tiết lộ diễn biến hay kết truyện**.
 
-## Cấu trúc folder
+## Cấu trúc phụ lục
 
 | File | Nội dung | Dùng khi |
 |---|---|---|
-| `01_NIEN_BIEU_HOANG_TRIEU.md` | Niên hiệu nhà Trần, sự kiện thật 1279–1292, tuổi Uyển Nhi theo chương | Reader hỏi "năm đó có gì?" |
-| `02_NHAN_VAT.md` | Toàn bộ cast: chính, phụ, phản diện, học trò — gốc tích + vai trò + mối quan hệ | Tra "nhân vật X là ai" |
-| `03_DIA_DANH_BAN_DO.md` | Chu Đậu, Nam Sách, Thăng Long, Yên Tử... + bối cảnh từng Quyển | Hình dung không gian |
-| `04_Y_DAO_THUOC_NAM.md` | Triết lý Nam Dược Trị Nam Nhân, các vị thuốc/y thực đã dùng trong truyện | Tra y thuật trong từng chương |
-| `05_NGHE_GOM_CHU_DAU.md` | Quy trình làm gốm TK13: chọn đất, ủ bùn, men Hoa Nâu, lò nung | Hiểu nghề của cha Uyển Nhi |
-| `06_PHONG_THUC_NGOAN_NGU.md` | Phong tục TK13, xưng hô, đơn vị đo, tiền tệ, tín ngưỡng Tế Trời, từ khó | Làm rõ nền văn hóa |
-| `07_VAT_CHUNG_TRUC.md` | 40 vật chứng trục — mỗi chương một món, kèm chương | Tương tác reader/SEO |
-| `08_QUY_TAC_VAN_HOA_VAT_LIEU.md` | Nguồn tham khảo nhà + luật từ cấm + ranh giới hư cấu/sử | Biên tập & bảo chứng |
+| `01_NIEN_BIEU_HOANG_TRIEU.md` | Niên hiệu nhà Trần, sự kiện lịch sử 1279–1292 | Tò mò "năm đó nước có gì?" |
+| `02_DANH_XUONG_GIAO_TIEP.md` | Cách gọi nhau: cha, mẹ, nàng, chàng, quan lang... | Gặp cách xưng hô lạ |
+| `03_DIA_DANH_BAN_DO.md` | Chu Đậu, Nam Sách, Thăng Long, Yên Tử... | Hình dung các nơi trong truyện |
+| `04_Y_DAO_THUOC_NAM.md` | "Nam Dược Trị Nam Nhân", phép nấu thuốc, các vị thuốc | Gặp thuật ngữ y thuật |
+| `05_NGHE_GOM_CHU_DAU.md` | Quy trình làm gốm, men Hoa Nâu, tên lỗi gốm | Hiểu nghề gốm |
+| `06_PHONG_THUC_DOI_SONG.md` | Canh giờ, đơn vị đo, tiền tệ, lễ Tết, đồ vật TK13 | Gặp đo lường/phong tục lạ |
+| `07_TIN_NGUONG_LE_HOI.md` | Tế Trời, thờ tổ, Thành Hoàng, lễ hội quanh năm | Gặp nghi lễ, lễ hội |
+| `08_QUY_TAC_VAN_HOA_VAT_LIEU.md` | Ranh giới hư cấu/sử, nguồn tham khảo | Muốn biết cái gì thật, cái gì hư cấu |
 
-## Nguồn dữ liệu
-- Khung sườn 400 chương (`../KHUNG_SUON_400_CHUONG.md`) — thực thể chính
-- 32 file lore nhà: `skills/dai-viet-wuxia-guofeng-engine/` (Đại Bách Khoá, Đại Khảo Cứu, Mĩ Từ Bank)
-- Sổ cái dự án: `_ledger/thuoc_ledger.json` (40 vật chứng), `_ledger/nubacsi_400_ledger.json` (niêm phong)
+## Mục đích
+1. Giải thích **thuật ngữ** cho người đọc — tra một từ không cần lật lại truyện.
+2. Nêu **bối cảnh lịch sử – văn hoá thời Trần** để hình dung không gian truyện.
+3. Không tiết lộ diễn biến, nhân vật bí mật hay kết truyện.
 
-## Quy tắc nâng cấp
-1. Mỗi file **độc lập** — sửa 1 file không phá file khác.
-2. Nâng cấp theo **hồi**: khi viết xong mỗi hồi 20 chương, bổ sung nhân vật mới/vị thuốc mới vào file tương ứng.
-3. **Khảo chứng trước ghi thêm:** mọi hiện vật, vị thuốc, phong tục ghi vào phụ lục phải có nguồn trong lore nhà hoặc ghi rõ *hư cấu phục vụ cốt truyện*.
-4. **Cấm thêm yếu tố ngoại lai** (tôn giáo nước ngoài, Hán phục, địa danh sai niên đại) — cùng luật với bản thảo.
+## Quy tắc
+1. Mỗi file **độc lập** — tra riêng lẻ không cần đọc lần lượt.
+2. **Khảo chứng trước ghi thêm:** mọi hiện vật, vị thuốc, phong tục phải có nguồn, hoặc ghi rõ *hư cấu phục vụ cốt truyện*.
+3. **Cấm thêm yếu tố ngoại lai** (tôn giáo nước ngoài, Hán phục, địa danh sai niên đại) — cùng luật với bản thảo.
