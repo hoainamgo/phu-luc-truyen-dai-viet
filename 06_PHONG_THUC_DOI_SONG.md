@@ -1,29 +1,50 @@
 # 06 · PHONG THỨC & ĐỜI SỐNG THƯỜNG NHẬT — 3 THỜI KỲ
-**Tra đo lường, tiền tệ, món ăn, đồ vật, trang phục khi gặp trong truyện.**
+**Tra đo lường, tiền tệ, món ăn, nhà cửa, trang phục — theo Quy chuẩn văn hoá vật thể thuần Việt.**
 
 ---
 
-## I. ĐƠN VỊ ĐO LƯỜNG (dùng chung Trần; TK10 gần tương tự)
+## I. KIẾN TRÚC & NHÀ CỬA (canon vật thể)
 
-| Đo | Đơn vị |
+| ❌ Không có trong truyện | ✅ Chuẩn thuần Việt |
 |---|---|
-| **Trọng lượng** | lạng (100g) · cân (604g) · hộc · đấu (10 lít) · hũ (theo dung tích) |
-| **Dài** | gang (~20cm) · sải (~1.5m) · dặm (~500m) · tấc (~3.3cm) |
-| **Tiền** | quan (10 tiền) · tiền (10 đồng) · đồng · lạng bạc |
-| **Gạo/thóc** | đấu (10 lít) · hũ · gùi (đơn vị đựng bằng tre) |
-| **Thể tích** | chén · bát · vĩ (chén nhỏ) · ca · hũ · chum |
+| Tường gạch xám đặc, mái ngói cong kiểu Tử Cấm Thành | **Nhà rường gỗ xoan/mít mộc**, vách nứa đan trát bùn |
+| Cửa sổ chạm chữ Hán sơn son thếp vàng | **Mái ngói mũi hài / ngói vảy cá** bám rêu |
+| Cột đá chạm rồng to đồ sộ | **Cột gỗ lim tròn mộc**, kê trên tảng đá hoa sen |
+| Cửa bức bàn tráng lệ kiểu cung đình | **Cửa liếp tre / cửa gỗ then cài thanh tre** |
 
-## II. TIỀN TỆ QUA 3 THỜI KỲ
+- **Nhà dân:** khung gỗ 3 gian 2 chái, lợp lá cọ hoặc rạ dày; sàn đất nện hoặc lát gạch gốm Bát Tràng/Chu Đậu màu đỏ gạch nung.
+- **Đình chùa & phủ đệ thời Trần:** mái ngói mũi hài, đầu đao uốn nhẹ hình **lá đề** chạm rồng Lý–Trần; thềm đá chạm hoa sen, sóng nước chân vạc.
 
-| Thời kỳ | Tiền dùng | Ghi chú |
-|---|---|---|
-| **TK10** | Tiền Trung Hoa còn lưu hành; tự đúc **"Thái Bình hưng bảo"** từ 970 | Tiền tự đúc đầu tiên của nước |
-| **Đầu Trần** | **Quan – xụ** — xụ là đồng xu cổ thời Lý còn dùng | Quan = 10 tiền |
-| **Cuối Trần** | **Quan – tiền – đồng** (1 quan = 10 tiền = 600–1000 đồng) | Giao dịch lớn bằng **bạc lạng** |
+## II. NỘI THẤT (canon vật thể)
 
-Tiền kim loại nặng, đếm tay. "Ném một quan mua một câu chuyện" là chi phí lớn.
+| Vật | Mô tả |
+|---|---|
+| **Chõng tre mộc / ghế đẩu gỗ 3–4 chân thấp** | Chỗ ngồi — không ghế bành chạm rồng phượng |
+| **Bàn trà tấm gỗ lũa** / bàn gỗ ghép mộc phẳng | Bàn uống nước chè |
+| **Phản gỗ / sập gụ mộc** | Giường — trải **chiếu cói Nga Sơn** đan hoa văn hình thoi |
+| **Gối tựa bọc vải đũi thô** | Đệm ngồi |
+| **Kệ đan tre già, buộc mây dẻo** | Phơi phôi gốm, gác ấm chén đất nung |
 
-## III. MÓN ĂN THƯỜNG NHẬT (dùng chung)
+## III. PHỤC TRANG (canon vật thể)
+
+| Đối tượng | Chuẩn thuần Việt |
+|---|---|
+| **Nữ nhân / cầm sư / y sĩ** | **Áo giao lĩnh (vạt chéo sang phải)** hoặc **áo tứ thân** lụa thô dệt tay · màu xanh men ngọc, vàng mỡ gà, trắng ngà, nâu non · **yếm** lót trắng ngà hoặc hồng cánh sen · tóc **búi bánh dày/củ hành**, cài **trâm gỗ đào/ngọc thô** |
+| **Nam nhân / hiệp khách** | **Áo ngắn vải chàm** xẻ ngực vạt chéo, quần chùng thắt ống · đai lưng bện gai móc treo đoản đao · tóc búi củ tỏi hoặc buộc nửa đầu, **khăn chít trán** |
+| **Dấu hiệu hiệp khách Đông A** | Xăm mình Giao Long cánh tay ngực; cổ tay thích chữ **"SÁT THÁT"** mực tàu đen xanh |
+
+## IV. ĐỒ DỤNG SINH HOẠT (canon vật thể)
+
+| Vật | Mô tả |
+|---|---|
+| **Đèn dầu lạc** | Đất nung, hoặc đĩa đồng thau; bấc tim **sợi bông lau** |
+| **Thúng mủng** | Đan tre trét phân trâu + dầu rái chống nước |
+| **Thuyền nan** | Đan nan tre hình vỏ trấu — đặc trưng đồng bằng Bắc Bộ |
+| **Nhựa thông** | Mủ thông — mồi lửa củi ướt |
+| **Gùi nứa / đòn gánh** | Gùi hàng, gùi thuốc |
+| **Chiếu cói Nga Sơn** | Trải phản, đan hình thoi |
+
+## V. MÓN ĂN THƯỜNG NHẬT (dùng chung)
 
 | Món | Mô tả |
 |---|---|
@@ -32,54 +53,60 @@ Tiền kim loại nặng, đếm tay. "Ném một quan mua một câu chuyện" 
 | **Cá rô đồng** | Bắt ở sông, nấu cháo hành |
 | **Canh cua** | Cua đồng + rau muống/rau dền |
 | **Canh khổ qua** | Canh mướp đắng — vị đắng đầu môi ngọt sau |
-| **Cá muối Tế Giang** | Cá ướp muối — món dự trữ |
+| **Cá muối** | Món dự trữ dân bãi biển |
 | **Rau** | Rau dền, mồng tơi, rau muống, rau má |
-| **Trầu cau** | Miếng trầu đãi khách, vật tín ngưỡng; cau là tin cưới |
+| **Trầu cau** | Miếng trầu đãi khách, vật tín ngưỡng |
 | **Nước** | Nước mưa đun sôi để nguội, nước giếng, nước gạo rang |
-| **Chè xanh** | Sao khô pha để nguội |
-| **Rượu nếp / rượu cần** | Rượu gạo nếp; rượu cần uống bằng ống tre (TK10) |
-| **Giò chả, lợn quay đình** | Cỗ bàn ngày lễ, ngày cưới |
-| **Mứt sen, chè hạt sen** | Món ngọt đãi khách |
+| **Chè xanh** | Ấm chén đất nung màu da lươn, bát miệng loe men ngọc |
+| **Rượu nếp** | Rượu gạo nếp — đãi khách, lễ tạ |
+| **Cỗ bàn, lợn quay đình** | Tiệc mùa vụ, ngày cưới |
 
-## IV. ĐỒ VẬT TRONG NHÀ (dùng chung)
+## VI. TIỀN TỆ QUA 3 THỜI KỲ
 
-| Vật | Mô tả |
+| Thời kỳ | Đơn vị | Ghi chú |
+|---|---|---|
+| **TK10** | Theo tư liệu nhà | Giao dịch trại bằng lương, thóc, muối |
+| **Đầu Trần** | **Quan – xụ** (xụ = đồng xu cổ thời Lý còn dùng) | Quan = 10 tiền |
+| **Cuối Trần** | **Quan – tiền – đồng** (1 quan = 10 tiền = 600–1000 đồng) | Giao dịch lớn bằng **bạc lạng** |
+
+## VII. ĐƠN VỊ ĐO LƯỜNG (dùng chung thời Trần)
+
+| Đo | Đơn vị |
 |---|---|
-| **Đèn dầu lạc** | Đèn đốt dầu lạc, bấc bông lau |
-| **Đuốc tre** | Ngọn đuốc khúc tre — đi đêm |
-| **Nhựa thông** | Mủ thông — mồi lửa củi ướt |
-| **Chiếu cói** | Chiếu đan cói (Nga Sơn) |
-| **Chõng / phản** | Chõng tre ngồi, phản gỗ ngủ |
-| **Quạt mo cau / quạt giấy** | Làm mát |
-| **Gùi nứa** | Gùi đan nứa — gùi thuốc, hàng |
-| **Đòn gánh** | Gánh hai đầu treo giỏ/hũ |
-| **Trống canh** | Trống báo canh — canh giờ làng, trại (TK10 & Đầu Trần) |
+| **Trọng lượng** | lạng (100g) · cân (604g) · hộc · đấu (10 lít) · hũ (theo dung tích) |
+| **Dài** | gang (~20cm) · sải (~1.5m) · dặm (~500m) · tấc (~3.3cm) |
+| **Gạo/thóc** | đấu (10 lít) · hũ · gùi (đơn vị đựng bằng tre) |
+| **Thể tích** | chén · bát · vĩ (chén nhỏ) · ca · hũ · chum |
 
-## V. TRANG PHỤC (dùng chung — phục trang Việt, không Hán phục)
-
-| Vật | Mô tả |
-|---|---|
-| **Áo tứ thân** | Áo nữ hai vạt, yếm trong |
-| **Áo giao lĩnh** | Áo cổ chéo — phổ biến cả nam nữ |
-| **Yếm** | Miếng vải che ngực phụ nữ |
-| **Khăn mỏ quạ** | Khăn phủ đầu phụ nữ |
-| **Khăn vuông vấn tóc** | Khăn quấn đầu nam giới |
-| **Nón ba tầm / nón quai thao** | Nón lá vùng Bắc Bộ |
-| **Nhà sàn gỗ lim** | Nhà TK10 — chống thú, chống ngập |
-
-## VI. LỄ TẾT QUANH NĂM (dùng chung)
+## VIII. LỄ TẾT QUANH NĂM (dùng chung)
 
 | Lễ | Thời điểm | Ghi chú |
 |---|---|---|
 | **Tết Nguyên Đán** | Mùng 1 tháng Giêng âm | Giao thừa điểm tuổi, bánh chưng |
-| **Rằm tháng Giêng** | 15/1 âm | "Lễ Phật quanh năm không bằng Rằm tháng Giêng" |
+| **Rằm tháng Giêng** | 15/1 âm | Lễ đầu năm, cầu mùa |
 | **Lễ Thanh Minh** | Tháng 3 âm | Tảo mộ, quét mộ tổ tiên |
 | **Lễ Đoan Ngọ** | 5/5 âm | Trừ sâu bệnh, đầu mùa mưa |
 | **Rằm tháng Bảy** | 15/7 âm | Xá tội vong nhân |
 | **Lễ Trung Thu** | 15/8 âm | Đèn ông sao, bánh nướng |
 | **Cưới hỏi** | Mùa xuân/thu | Lễ cưới: giò chả, cỗ bàn, lợn quay đình |
 
-## VII. TỪ CẦM (sai thời đại — cả 3 thời kỳ)
+## IX. ÂM NHẠC – GIẢI TRÍ (theo Nhạc khí thuần Việt canon)
+
+| Nhạc cụ | Vai |
+|---|---|
+| **Đàn tranh 16 dây** (đổi từ 12 → 16 thời Lý–Trần) | Nhạc tấu, nhạc lễ |
+| **Đàn bầu** | Độc huyền — quốc hồn quốc túy |
+| **Đàn nhị / đàn đáy** | Hồ kéo truyền thống Việt hoá |
+| **Sáo trúc / sáo mọn** | Tre nứa miền Bắc — tiếng sáo mục đồng |
+| **Đàn tỳ bà (Việt hoá)** | Đường lối độc lập, không phải pipa Trung |
+| **Trống đồng Đông Sơn** | Lễ lớn — mặt trời, chim Lạc |
+| **Trống chầu / trống cơm** | Nhịp lộc bình dân |
+| **Kèn bầu / đàn đá** | Thượng cổ — nền Thảo Dã Sơn Khê |
+| **Tiên / tiên ngô (trống ván)** | Rao cần biết, thời Trần |
+
+❌ Không dùng: Guzheng, Guqin, Erhu, Dizi, Xiao, Pipa, Bianzhong — nhạc khí Trung Hoa, dành riêng cho engine guofeng khác.
+
+## X. TỪ CẦM (sai thời đại — cả 3 thời kỳ)
 
 ❌ Diêm · bật lửa · đồng hồ · kính · nhựa · xi măng · cao su · nilon · ô tô · máy bay · internet · cà phê · tivi
 
@@ -87,4 +114,4 @@ Tiền kim loại nặng, đếm tay. "Ném một quan mua một câu chuyện" 
 
 ---
 
-*Bản tra cứu cho người đọc · Nguồn: lore nhà NHA_KHI_THUAN_VIET_CANON + DAI_BACH_KHOA_DOI_THUONG*
+*Bản tra cứu cho người đọc · Nguồn: Quy chuẩn văn hoá vật thể thuần Việt + Nhạc khí thuần Việt canon (Music OS) — không dùng nguồn ngoài.*

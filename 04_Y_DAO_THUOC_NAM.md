@@ -1,5 +1,5 @@
 # 04 · Y ĐẠO, THUỐC NAM & THUẬT NGỮ KỲ ÁN
-**Tra thuật ngữ y thuật và pháp lý cổ khi gặp trong truyện — dùng chung 3 thời kỳ.**
+**Tra thuật ngữ y thuật và pháp lý cổ khi gặp trong truyện — theo thế giới quan Music OS.**
 
 ---
 
@@ -72,7 +72,7 @@
 | **Giỏ trấu rang ủ chân** | "Chân ấm mạch ấm" — giữ ấm người bệnh |
 | **Bã chè đắp trán** | Hạ sốt, chống ngủ gật |
 
-## VI. THUẬT NGỮ KỲ ÁN & TRINH SÁT CỔ (dùng chung)
+## VI. THUẬT NGỮ KỲ ÁN & TRINH SÁT CỔ (theo corpus kỳ án trong nhà)
 
 ### Pháp lý
 | Thuật ngữ | Nghĩa |
@@ -82,28 +82,31 @@
 | **Đối chất** | Cho hai bên khai mâu thuẫn đối mặt |
 | **Khảo vấn** | Hỏi cung nghi phạm |
 | **Dấu tay / vân tay** | Cam kết văn bản bằng vân tay |
+| **Án tố** | Phiên tố tụng — đối chất trước công đường |
+| **Thề tổ** | Lời thề trước tổ tiên để làm chứng |
 | **Lưu đày** | Đày đi xa làm phu — hình phạt nặng |
 
 ### Khám nghiệm & bằng chứng
 | Thuật ngữ | Nghĩa |
 |---|---|
-| **Vết thương dựng** | Vết gây trước chết — khác vết sau chết |
-| **Độc dược** | Chất độc thực vật, khoáng |
-| **Chân dung tả** | Tranh vẽ mặt nghi phạm |
 | **Di vật** | Vật để lại hiện trường — mảnh vỡ, sợi vải |
-| **Y sư pháp y** | Người có nghề y phục vụ xét án |
+| **Chân dung tả** | Tranh vẽ mặt nghi phạm |
+| **Độc dược** | Chất độc — theo dược thảo rừng (SAGA 2: sương độc, cổ độc, huyết sâm) |
+| **Bản di thảo khảo cổ** | Thảo bản cổ — tài liệu có thể bị đánh cắp (vụ án Quốc Tử Giám) |
+| **Vật chứng ** | Món đồ buộc tội — men gốm, hải đồ, ngọc bội |
 
-### Trinh sát
+### Trinh sát & báo tin
 | Thuật ngữ | Nghĩa |
 |---|---|
 | **Trinh sát / Ám vệ** | Người điều tra ngầm, theo dõi |
-| **Gián điệp** | Người làm tin ngầm cho phe khác |
+| **Gián điệp / Đổi dạng** | Người làm tin ngầm / cải trang theo dõi |
 | **Mật thư / Mật lệnh** | Thư, lệnh giấu kín — viết ngầm, ghép chữ |
+| **Mật lệnh vỏ sò** | Tin giấu trong vỏ sò — tín hiệu thuỷ, biển (SAGA 1) |
 | **Khói báo / Trống báo** | Tín hiệu báo động từ xa |
-| **Thần tốc** | Hệ thống đưa tin nhanh — trạm đò, trạm ngựa |
-| **Ám đạo / Mật đạo** | Đường ngầm trong thành, lò gốm |
-| **Đổi dạng** | Cải trang theo dõi |
-| **Thử độc bằng vàng/bạc** | Thử độc bằng kim loại — kim loại chạm độc đổi màu |
+| **Thần tốc** | Hệ thống đưa tin nhanh — trạm đò, gà vào giờ |
+| **Ám đạo / Mật đạo** | Đường ngầm trong thành, lò gốm — "Lục bộ ám đạo" Thăng Long |
+| **Ám sát vô ảnh** | Sát thủ vô hình — hành tung không dấu vết |
+| **Đoản đao lá lúa** | Binh khí bằng chứng — đao cong như lá lúa, chuôi chạm chim Lạc |
 
 ## VII. CẤM (cả 3 thời kỳ)
 
@@ -116,4 +119,4 @@
 
 ---
 
-*Bản tra cứu cho người đọc · Nguồn: Nam Dược Thần Hiệu + lore nhà y thuật & kỳ án*
+*Bản tra cứu cho người đọc · Nguồn: thế giới quan Music OS (corpus kỳ án nhà + Nam Dược Thần Hiệu) — không dùng nguồn ngoài.*

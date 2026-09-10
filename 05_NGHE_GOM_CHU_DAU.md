@@ -1,5 +1,5 @@
 # 05 · NGHỀ GỐM, RÈN, MUỐI, ĐÊ — QUA CÁC THỜI KỲ
-**Tra thuật ngữ nghề nghiệp khi gặp trong truyện — gốm (Cuối Trần), rèn (TK10), muối & đê (Đầu Trần).**
+**Tra thuật ngữ nghề nghiệp khi gặp trong truyện — theo Quy chuẩn văn hoá vật thể thuần Việt.**
 
 ---
 
@@ -16,8 +16,8 @@
 - **Đất men:** sét trắng **Tục Loan / Đông Mỹ**
 - **Đất phôi:** bùn bến Luộc trộn tro trấu, ủ 3 tháng
 
-2️⃣ **NẶN PHÔI** — bàn xoay, tay ẩm, hơi thở đều
-3️⃣ **TRÁNG MEN** — men ngà, men lam, **men ngọc hoa nâu** (đặc sản Chu Đậu)
+2️⃣ **NẶN PHÔI** — **bàn xoay gỗ lim** quay bằng lực đạp chân
+3️⃣ **TRÁNG MEN** — **Gốm Hoa Nâu Chu Đậu**: xương gốm xám trắng, **men ngà (men vỏ trứng)** vẽ **men nâu khoáng sản**; họa tiết vẽ tay: hoa sen cách điệu, lá rong biển, chim chích, sóng nước
 4️⃣ **Ủ PHÔI** — phơi râm 2–3 ngày; phôi ẩm vào lò = nứt chắc
 5️⃣ **NẤP LÒ** — **thẻ tre hai đốt ngón** kê khe hũ; lửa phải leo thẳng
 6️⃣ **CHÁY LÒ** — 3 ngày 3 đêm; **"lửa xanh đất sống, lửa đỏ đất chưa chín"**
@@ -35,7 +35,7 @@
 | **Nắp mài** | Nắp mài với miệng hũ bằng đất trắng — giữ mùi |
 | **Mặt mộc** | Gốm không men, đất trần |
 | **Con kê lò** | Đồ kê giữa các món — kê rỗng chịu nhiệt |
-| **Men tro vỏ trấu** | Men pha tro trấu nung + bột thạch anh |
+| **Ấm chén đất nung** | Màu da lươn; bát chè xanh miệng loe **men ngọc** |
 
 ### Món đồ & giá (Cuối Trần)
 | Món | Kích cỡ | Dùng |
@@ -50,8 +50,17 @@ Thương gốm: chợ Nam Sách (5 ngày/phiên) → chợ nổi Giang Khẩu �
 
 ---
 
-## II. NGHỀ RÈN (TK10 944–968)
+## II. NGHỀ RÈN & BINH KHÍ (theo Quy chuẩn binh khí thuần Việt)
 
+| Binh khí | Đặc tả canon |
+|---|---|
+| **Đoản đao lá lúa** (Lạc Việt) | Lưỡi thép tôi/đồng thiếc cong nhẹ như lá lúa, 40–50cm; chuôi gỗ bọc da cá đuối hoặc quấn dây gai; khâu đao đồng chạm **chim Lạc**; vỏ gỗ dẻ sơn ta đen, đeo chéo hông tiện thuỷ chiến |
+| **Kiếm trúc / kiếm liễu** | Kiếm 2 lưỡi thanh mảnh thời Trần; chuôi núm hoa sen, đốc hình mắt quỷ; kiếm trúc làm từ **tre đực già ngâm bùn tôi lửa**, không sát sinh |
+| **Linh quang thần nỗ** (nỏ liên châu Cao Lỗ) | Thân nỏ gỗ dâu/nghiến; **lẫy nỏ đúc đồng 3 ngàm** (Cổ Loa); bắn **mũi tên đồng 3 cạnh cánh én**, tầm 300 bước |
+| **Trường thương & giáo** | Mũi đồng/sắt hình búp sen, ngọn lửa uốn lượn; cán tầm vông dẻo |
+| **Binh khí thuỷ chiến** | Khoan sắt đục thuyền, câu liêm móc mạn, búa rìu đốn cọc lim |
+
+### Thuật ngữ lò rèn (TK10)
 | Thuật ngữ | Nghĩa |
 |---|---|
 | **Lò rèn / bễ** | Lò nung sắt — bễ là cái bóp gió thổi lửa |
@@ -59,12 +68,17 @@ Thương gốm: chợ Nam Sách (5 ngày/phiên) → chợ nổi Giang Khẩu �
 | **Nước tôi** | Nước làm nguội nhanh thép — quyết định độ cứng |
 | **Đao dang dở** | Thanh đao đang rèn, chưa xong |
 | **Chuôi đao** | Cái cầm — nơi khắc tên người mất để tưởng niệm |
-| **Mũi tên 3 cạnh** | Mũi thép tam giác — dấu hiệu xưởng rèn |
-| **Thoi thép** | Miếng sắt thoi chưa rèn — đơn vị mua bán |
+| **Mũi tên 3 cạnh** | Mũi thép tam giác cánh én — dấu hiệu xưởng rèn |
 | **Đập – gập – tôi** | Ba bước chính của rèn |
 | **Vỉa sắt** | Mỏ sắt lộ thiên |
 
-**Vũ khí TK10:** đao dài (chủ lực bộ binh) · thương dài (trên ngựa, thuyền) · cung tên 3 cạnh · thuyền chiến sàn nghiêng · cọc lim · hỏa công (mũi tên lửa).
+### Giáp trụ (theo canon)
+| Giáp | Đặc tả |
+|---|---|
+| **Giáp da trâu ngâm dầu trám** | Nhẹ, dẻo, chống chém, chịu nước — thuỷ chiến |
+| **Hộ tâm kính đúc đồng** | Tấm đồng tròn chạm **mặt trời Đông Sơn / chim Lạc** đeo trước ngực |
+| **Giáp mây bện** | Đan mây rừng già phết sơn ta — nhẹ nổi trên nước |
+| **Giáp tướng lĩnh** | Phiến đồng/sắt đinh tán mạ vàng, lót lụa; vai chạm **Hổ Phù / Giao Long** |
 
 ---
 
@@ -77,7 +91,7 @@ Thương gốm: chợ Nam Sách (5 ngày/phiên) → chợ nổi Giang Khẩu �
 | **Cào muối** | Dụng cụ cào muối thành đống |
 | **Muối cát / muối tinh** | Muối thô / muối nấu sạch |
 | **Kho nghĩa muối** | Kho dự trữ nhà nước — điều tiết giá |
-| **Nghề chài – muối** | Hai nghề chính dân bãi biển |
+| **Nghề chài – muối** | Hai nghề chính dân bãi biển (bãi muối Cần Bồi) |
 
 ---
 
@@ -111,11 +125,11 @@ Thương gốm: chợ Nam Sách (5 ngày/phiên) → chợ nổi Giang Khẩu �
 
 | Hạng mục | TK10 | Đầu Trần | Cuối Trần |
 |---|---|---|---|
-| **Tiền** | Thái Bình hưng bảo (970) | Quan–xụ | Quan–tiền–đồng, bạc lạng |
+| **Tài sản quý** | Sổ đinh, hải đồ | Kho nghĩa muối–thóc | Bí truyền men, hải đồ |
 | **Chợ** | Chợ trâu Tiên Du, bến Đằng Châu | Chợ phiên, kèo ghe | Nam Sách, chợ nổi Giang Khẩu |
 | **Xuất khẩu** | Muối Bố Hải Khẩu | Muối, thóc | Gốm men ngọc qua Vân Đồn |
-| **Tài sản quý** | Sổ đinh, hải đồ | Kho nghĩa muối–thóc | Bí truyền men, hải đồ |
+| **Đơn vị tiền** | Tra tư liệu nhà | Quan–xụ | Quan–tiền–đồng, bạc lạng |
 
 ---
 
-*Bản tra cứu cho người đọc · Nguồn: lore nhà gốm Hoa Nâu, nghề rèn Bách Việt, Toàn thư mục đê điều*
+*Bản tra cứu cho người đọc · Nguồn: Quy chuẩn văn hoá vật thể thuần Việt (binh khí, giáp trụ, gốm) + lore nhà — không dùng nguồn ngoài.*

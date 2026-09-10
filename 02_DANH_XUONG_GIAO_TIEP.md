@@ -1,5 +1,5 @@
 # 02 · DANH XƯƠNG & GIAO TIẾP — 3 THỜI KỲ
-**Tra cách xưng hô, chức tước, canh giờ khi gặp trong truyện.**
+**Tra cách xưng hô, chức tước, canh giờ khi gặp trong truyện — theo thế giới quan nhà.**
 
 ---
 
@@ -20,10 +20,11 @@
 | Từ | Nghĩa |
 |---|---|
 | **Thợ gốm / chủ lò** | Người làm gốm, đứng lò nung |
-| **Thợ rèn / chủ lò rèn** | Người rèn sắt (TK10) |
+| **Thợ rèn / chủ lò rèn** | Người rèn sắt, rèn đao |
 | **Y sư / lang y** | Người chữa bệnh |
 | **Thái y** | Thầy thuốc triều đình |
-| **Trinh sát / Ám vệ** | Người điều tra ngầm |
+| **Trinh sát / Ám vệ** | Người điều tra ngầm, theo dõi |
+| **Hiệp khách / hiệp sĩ** | Người hành hiệp giúp dân — "hiệp" nghĩa là giúp |
 | **Thầy cúng** | Người chủ lễ dân gian |
 | **Làng trưởng** | Người đứng đầu làng |
 
@@ -33,8 +34,9 @@
 | Từ | Nghĩa |
 |---|---|
 | **Sứ quân** | Trưởng vùng cát cứ — giữ trại riêng, có quân riêng |
-| **Vạn Thắng Vương** | Danh hiệu Đinh Bộ Lĩnh khi đánh dẹp |
-| **Tiên Hoàng** | Hiệu Đinh Tiên Hoàng sau khi xưng Đế 968 |
+| **Tay kiếm / Tay sổ** | Cặp vai truyện Thập Nhị Hùng: người quyết bằng gươm-địa thế / người quyết bằng lương-địa thế-sổ đinh |
+| **Quân sư** | Người cầm quân sư, giữ sổ đinh, muối, lương |
+| **Nữ chủ bến đò** | Người giữ bến — bến đò sông Hoàng Long |
 
 ### Đầu Trần (1226–1258)
 | Từ | Nghĩa |
@@ -44,12 +46,12 @@
 | **Quốc công / Quốc sư** | Tước cao / sư tôn quốc gia |
 | **Phụ chính / Hoàng phụ** | Người phụ vua nhỏ điều hành |
 | **Hà đê chính phó sứ** | Quan đứng đầu việc đê (1248) |
-| **Ngự sử** | Quan giám sát, tố quan lại |
+| **Ngự sĩ / Ngự sử** | Lớp quan giám sát triều chính |
 | **Tiết chế sứ** | Chỉ huy quân sự toàn quốc (dành cho Quốc Tuấn 1257) |
 | **Thiện truyền** | Nhường ngôi — Lý nhường Trần 1225 |
 | **Giáng tước** | Giảm tước — hình phạt chính trị |
 | **Án mộc** | Phiên tòa công khai |
-| **Đô đầu** | Quan cảnh sát trong kinh |
+| **Đương ý** | Đáp ứng, lĩnh ý lệnh |
 
 ### Cuối Trần (1280–1292)
 | Từ | Nghĩa |
@@ -95,7 +97,9 @@
 | "chữ nghĩa là giấy" | giấy tờ, lời hứa trên giấy |
 | "bệnh của người ta nặng hơn nợ của mình" | y đức — cứu người trước |
 | "lửa xanh đất sống, lửa đỏ đất chưa chín" | xem lửa biết men gốm |
+| "Khoái ý ân cừu — Tiếu ngạo giang hồ" | tinh thần hiệp lữ giang hồ phong trần (Đông A) |
+| "Sát Thát" | lời thề thời Đông A — khắc trên cổ tay hiệp khách |
 
 ---
 
-*Bản tra cứu cho người đọc · Nguồn: lore nhà NI_LUAT_VIET_HOA + Toàn thư mục chức quan*
+*Bản tra cứu cho người đọc · Nguồn: thế giới quan Music OS (Master Codex v6.0 + lore nhà) — không dùng nguồn ngoài.*

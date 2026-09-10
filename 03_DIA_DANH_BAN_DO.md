@@ -1,21 +1,21 @@
 # 03 · ĐỊA DANH & BỐI CẢNH — 3 THỜI KỲ
-**Hình dung không gian các thời kỳ: TK10 (944–968), Đầu Trần (1226–58), Cuối Trần (1280–92).**
+**Hình dung không gian các thời kỳ — theo Đại Bách Khoá 100 Địa Danh của hệ Music OS.**
 
 ---
 
-## I. SƠ ĐỒ HÙNG CƯỜNG TK10 — 12 VÙNG SỨ QUÂN
+## I. SƠ ĐỒ THỜI TK10 — 12 VÙNG SỨ QUÂN (Đại Cồ Việt · Thập Nhị Hùng)
 
 ```
-   Phong Châu (Kiều Công Hãn)
+   Phong Châu (ngã ba Bạch Hạc)
         ↓
-   Tam Đái (Nguyễn Khoan) — Đỗ Động (Đỗ Cảnh Thạc)
+   Tam Đái (đồng thóc) — Đỗ Động (bến, thành Bảo Đà)
         ↓                          ↓
-   Tây Phù Liệt — SIÊU LOẠI — TIÊN DU (ông Sấm)
-        (Nguyễn Siêu)  (Lý Khuê)     (Nguyễn Thủ Tiệp)
+   Tây Phù Liệt — SIÊU LOẠI — TIÊN DU (chợ trâu, đồn lũy)
+     (bãi lầy)   (cửa ngõ sông Cầu)
                   ↓
-   Đằng Châu (Phạm Bạch Hổ) — Tế Giang (Lã Đường)
+   Đằng Châu (thuyền buôn) — Tế Giang (cá muối, kho muối)
                   ↓
-   BỐ HẢI KHẨU (Trần Lãm — cửa biển muối, mạnh nhất)
+   BỐ HẢI KHẨU (cửa biển muối — trại mạnh nhất)
                   ↓
    HOA LƯ (căn cứ cuối cùng — đô thành 968)
         sông Hoàng Long — Đại Hoàng — Thung Lau
@@ -23,22 +23,21 @@
 
 | Địa danh | Loại | Đặc điểm |
 |---|---|---|
-| **Cổ Loa** | Đô cũ | Thành xoáy trôn ốc thời An Dương Vương — Ngô Quyền đóng đô |
-| **Hoa Lư** | Đô thành 968 | Vách đá vôi, sông Sào Khê, quèn Vông (lối kín) |
+| **Hoa Lư** | Đô thành 968 | Vách đá vôi, sông Sào Khê, **quèn Vông** (lối kín) |
 | **Sông Hoàng Long** | Sông | Vùng Ninh Bình — lò rèn, bến đò |
-| **Đại Hoàng** | Làng | Cùng làng họ Đinh |
-| **Thung Lau** | Thung | Lau sậy, trâu, bãi cát |
-| **Đỗ Động** | Bến | Đỗ Cảnh Thạc — thành Bảo Đà, trại quyền |
-| **Đằng Châu** | Vùng | Phạm Bạch Hổ — thủy binh, thuyền buôn |
-| **Tế Giang** | Sông | Lã Đường — cá muối, kho muối |
-| **Tiên Du** | Vùng | Nguyễn Thủ Tiệp "ông Sấm" — chợ trâu, đồn lũy |
-| **Tây Phù Liệt** | Vùng | Nguyễn Siêu — 1 vạn quân, bãi lầy |
-| **Siêu Loại** | Vùng | Lý Khuê — cửa ngõ sông Cầu, gốm đất |
-| **Tam Đái** | Đồng | Nguyễn Khoan — đồng thóc, ao làng |
-| **Hồi Hồ** | Đèo | Kiều Thuận — đèo, sương, vách |
-| **Phong Châu** | Ngã ba | Kiều Công Hãn — ngã ba Bạch Hạc |
-| **Đường Lâm** | Vùng | Ngô Nhật Khánh — tơ lụa, đường núi |
-| **Bố Hải Khẩu** | Cửa biển | Trần Lãm — muối trắng, đầm lầy |
+| **Đại Hoàng** | Làng | Cùng làng với họ Đinh |
+| **Thung Lau** | Thung | Lau sậy, trâu, bãi cát — nơi "cờ lau tụ tập" |
+| **Đỗ Động** | Bến | Trại quyền, thành Bảo Đà |
+| **Đằng Châu** | Vùng | Thuỷ binh, thuyền buôn, cửa sông |
+| **Tế Giang** | Sông | Cá muối, kho muối, bãi phơi |
+| **Tiên Du** | Vùng | Chợ trâu, đồn lũy, gò đống |
+| **Tây Phù Liệt** | Vùng | Bãi lầy — trận hỏa công |
+| **Siêu Loại** | Vùng | Cửa ngõ sông Cầu, gốm đất, bến chợ |
+| **Tam Đái** | Đồng | Đồng thóc, sổ đinh, ao làng |
+| **Hồi Hồ** | Đèo | Hồ, đèo, sương, vách |
+| **Phong Châu** | Ngã ba | Ngã ba Bạch Hạc, bè |
+| **Đường Lâm** | Vùng | Tơ lụa, đường núi |
+| **Bố Hải Khẩu** | Cửa biển | Muối, đầm lầy — trại Trần Lãm |
 
 ## II. SƠ ĐỒ THỜI TRẦN (đầu & cuối)
 
@@ -82,15 +81,22 @@
 | **Thiên Trường** | Trần | Nam Định — phủ quê nhà Trần |
 | **Bạch Đằng** | Trần | Sông lịch sử — cọc lim, trận 1288 |
 | **Vân Đồn** | Trần | Cảng biển quốc tế, Quảng Ninh |
+| **Lục Đầu Giang** | Trần | Bến đò ngã ba sông — cửa ngõ Đông Bộ |
 
-## III. ĐỊA DANH CẤM (cả 3 thời kỳ)
+## III. KHÔNG GIAN THẢO DÃ SƠN KHÊ (khối thế giới quan riêng)
+
+Dùng cho mảng lữ khách — mục đồng của hệ (không lẫn vào các truyện triều đình):
+nương chè Tân Cương · suối nguồn thác đá Tây Bắc · mái nhà rông Tây Nguyên ·
+đồi thông đèo Gió · cột cờ Lũng Cú · triền đê bãi ngô sông Hồng.
+
+## IV. ĐỊA DANH CẤM (cả 3 thời kỳ)
 
 ❌ **Cái Răng** · Cần Thơ · Mekong · Sài Gòn · Chợ Lớn · Huế · Đà Nẵng · Hội An · Nha Trang · An Giang · Đồng Nai · Bến Tre…
 
 → Nam Bộ và duyên hải Nam Trung Bộ chưa thuộc Đại Việt (mở đất 1306). Dùng = sai niên đại.
 
-✅ Riêng TK10: **Thăng Long chưa tồn tại** (thành lập 1010) — khi đó là làngként vùng sông Nhị, kinh đô là Cổ Loa / Hoa Lư.
+✅ Riêng TK10: **Thăng Long chưa tồn tại** (thành lập 1010) — kinh đô thời đó là Cổ Loa / Hoa Lư.
 
 ---
 
-*Bản tra cứu cho người đọc · Nguồn: SSOT 944–968 + SSOT 1226–58 + Đại Bách Khoá 100 Địa Danh*
+*Bản tra cứu cho người đọc · Nguồn: Đại Bách Khoá 100 Địa Danh Làng Nghề + SSOT các bộ truyện trong hệ — không dùng nguồn ngoài.*
