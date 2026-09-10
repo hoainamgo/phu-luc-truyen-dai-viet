@@ -1,36 +1,72 @@
-# 02 · DANH XƯƠNG & GIAO TIẾP
-**Tra cách xưng hô khi gặp "nàng", "chàng", "quan lang", "canh tư"... trong truyện**
+# 02 · DANH XƯƠNG & GIAO TIẾP — 3 THỜI KỲ
+**Tra cách xưng hô, chức tước, canh giờ khi gặp trong truyện.**
 
 ---
 
-## I. XƯNG HÔ THỜI TRẦN
+## I. XƯNG HÔ THÔNG DỤNG (dùng chung)
 
 | Ai gọi ai | Từ dùng | Ghi chú |
 |---|---|---|
-| Con gọi cha | **cha** / **cha ạ** | "Bố" là cách gọi hiện đại — không có TK13 |
+| Con gọi cha | **cha** / **cha ạ** | "Bố" là cách gọi hiện đại |
 | Con gọi mẹ | **mẹ** / **bu** (miền Bắc cổ) | — |
 | Chị/em trong họ | **chị** / **em** | Theo thứ bậc tuổi |
-| Người làng gọi cô gái trẻ | **con bé** / **cháu** / **nàng** | "Cô" là cách gọi hiện đại |
-| Người lớn giữa nhau | **nàng** / **chàng** / **ông** / **bà** / **cụ** / **tôi** | Lịch sự, không phân cấp quá |
+| Người làng gọi cô gái trẻ | **con bé** / **cháu** / **nàng** | "Cô" là hiện đại |
+| Người lớn giữa nhau | **nàng** / **chàng** / **ông** / **bà** / **cụ** / **tôi** | Lịch sự |
 | Người gọi người có chức | **quan trên** / **tiên sinh** / **thầy** | — |
-| Cô gái ↔ người yêu | **nàng** ↔ **chàng** | Thân mật mà vẫn giữ lễ |
+| Người trẻ ↔ người yêu | **nàng** ↔ **chàng** | Thân mật vẫn giữ lễ |
 
-> 📖 Quy tắc chung: xưng hô thời Trần **kém phân cấp** hơn sau này — không có "tiểu nữ", "thiếp" kiểu câu từ cung đình muộn hơn.
-
-## II. TỪ GỌI NGHỀ & ĐỐI TƯỢNG
+## II. TỪ GỌI NGHỀ & ĐỐI TƯỢNG (dùng chung)
 
 | Từ | Nghĩa |
 |---|---|
-| **Thợ gốm / chủ lò** | Người làm gốm, người đứng lò nung |
-| **Y sư / lang y** | Người chữa bệnh; "thầy thuốc" đời sau |
+| **Thợ gốm / chủ lò** | Người làm gốm, đứng lò nung |
+| **Thợ rèn / chủ lò rèn** | Người rèn sắt (TK10) |
+| **Y sư / lang y** | Người chữa bệnh |
 | **Thái y** | Thầy thuốc triều đình |
-| **Cường hào / bá hộ** | Người giàu có, có thế lực ở địa phương (chức phận chung, không phải tên riêng) |
-| **Cai họ** | Người cai quản việc trong nhà cường hào (chức phận chung) |
+| **Trinh sát / Ám vệ** | Người điều tra ngầm |
+| **Thầy cúng** | Người chủ lễ dân gian |
 | **Làng trưởng** | Người đứng đầu làng |
-| **Thầy cúng** | Người chủ lễ theo tín ngưỡng dân gian |
-| **Sư / thiền sư** | Người tu hành (chỉ nhắc, không thuộc đời sống nhân vật) |
 
-## III. THỜI GIAN — CANH GIỜ (không có đồng hồ)
+## III. CHỨC TƯỚC QUA THỜI KỲ
+
+### TK10 (944–968)
+| Từ | Nghĩa |
+|---|---|
+| **Sứ quân** | Trưởng vùng cát cứ — giữ trại riêng, có quân riêng |
+| **Vạn Thắng Vương** | Danh hiệu Đinh Bộ Lĩnh khi đánh dẹp |
+| **Tiên Hoàng** | Hiệu Đinh Tiên Hoàng sau khi xưng Đế 968 |
+
+### Đầu Trần (1226–1258)
+| Từ | Nghĩa |
+|---|---|
+| **Thái sư** | Tể tướng đứng đầu triều — quyền hơn tước vương |
+| **Vương** | Tước quý tộc — An Sinh vương, Hoài vương |
+| **Quốc công / Quốc sư** | Tước cao / sư tôn quốc gia |
+| **Phụ chính / Hoàng phụ** | Người phụ vua nhỏ điều hành |
+| **Hà đê chính phó sứ** | Quan đứng đầu việc đê (1248) |
+| **Ngự sử** | Quan giám sát, tố quan lại |
+| **Tiết chế sứ** | Chỉ huy quân sự toàn quốc (dành cho Quốc Tuấn 1257) |
+| **Thiện truyền** | Nhường ngôi — Lý nhường Trần 1225 |
+| **Giáng tước** | Giảm tước — hình phạt chính trị |
+| **Án mộc** | Phiên tòa công khai |
+| **Đô đầu** | Quan cảnh sát trong kinh |
+
+### Cuối Trần (1280–1292)
+| Từ | Nghĩa |
+|---|---|
+| **Thái tử** | Con vua được lập kế vị |
+| **Đông Cung** | Cung của Thái tử |
+| **Quan Lễ Bộ** | Bộ quản lễ nghi, tiến cống |
+| **Sứ thần** | Người đi sứ nước ngoài |
+| **Bá Hộ / cường hào** | Người giàu có có thế lực địa phương |
+| **Cai họ** | Người cai quản việc trong nhà cường hào |
+| **Gia đinh** | Người làm thuê trong nhà trang trại |
+| **Hộ viện** | Người nương nhờ xin làm việc trong nhà |
+| **Chiếu lệnh** | Lệnh triều đình xuống làng, xưởng |
+| **Cống phẩm** | Hàng tốt nhất dâng vua |
+| **Hình thư** | Giấy tờ kiện tụng có dấu |
+
+## IV. THỜI GIAN — CANH GIỜ (dùng chung, không có đồng hồ)
 
 | Khung giờ | Tên gọi |
 |---|---|
@@ -40,7 +76,7 @@
 | 05h–07h | **Canh Mão** (canh tư) |
 | 07h–09h | **Canh Thìn** (canh năm) |
 
-*(Lưu ý: văn nói dân gian hay gọi **canh tư = 4h sáng**, canh ba = 3h sáng. Truyện dùng theo cách dân gian.)*
+*(Văn nói dân gian: **canh tư = 4h sáng**, canh ba = 3h sáng. Truyện dùng theo cách dân gian.)*
 
 | Đơn vị ước lượng | Ý nghĩa |
 |---|---|
@@ -49,16 +85,17 @@
 | **Một chén trà nguội** | ~15 phút |
 | **Một bữa cơm** | ~30 phút |
 
-## IV. CỤM TỪ ĐẶC TRƯNG TRONG TRUYỆN
+## V. CỤM TỪ ĐẶC TRƯNG (dùng chung)
 
 | Cụm | Nghĩa |
 |---|---|
 | "trùng nhỏ mắt không thấy" | vi trùng — diễn đạt cổ |
-| "nước đun sôi để nguội" | nước đã sôi, để nguội — cách vô trùng xưa |
+| "nước đun sôi để nguội" | nước sôi để nguội — cách vô trùng xưa |
 | "thuốc đắng giết chứng" | thuốc cay đắng trị được bệnh |
 | "chữ nghĩa là giấy" | giấy tờ, lời hứa trên giấy |
-| "bệnh của người ta nặng hơn nợ của mình" | y đức — cứu người trước mọi tính toán |
+| "bệnh của người ta nặng hơn nợ của mình" | y đức — cứu người trước |
+| "lửa xanh đất sống, lửa đỏ đất chưa chín" | xem lửa biết men gốm |
 
 ---
 
-*Bản tra cứu cho người đọc · Nguồn: lore nhà NI_LUAT_VIET_HOA + NHA_KHI_THUAN_VIET_CANON*
+*Bản tra cứu cho người đọc · Nguồn: lore nhà NI_LUAT_VIET_HOA + Toàn thư mục chức quan*

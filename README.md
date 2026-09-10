@@ -1,28 +1,33 @@
-# 📚 PHỤ LỤC THUẬT NGỮ — NỮ Y ĐẠI VIỆT HỒN XUYÊN
-**Bảng tra nhỏ dành cho người đọc: giải thích các thuật ngữ, danh xưng, đơn vị đo, y thuật, nghề gốm xuất hiện trong truyện.**
+# 📚 PHỤ LỤC THUẬT NGỮ — CÁC BỘ TRUYỆN ĐẠI VIỆT
+**Bảng tra thuật ngữ dùng chung cho các bộ truyện lịch sử Đại Việt trong hệ sinh thái.**
 
-> Truyện cổ thời Trần (1280–1292) dùng nhiều thuật ngữ xưa. Phụ lục này giúp bạn
-> tra nhanh một từ khi đọc, **không tiết lộ diễn biến hay kết truyện**.
+> Mục đích duy nhất: giải thích thuật ngữ, danh xưng, nghề nghiệp, phong tục khi người đọc
+> gặp từ lạ. **Không tiết lộ diễn biến, nhân vật bí mật hay kết truyện của bất kỳ bộ nào.**
 
-## Cấu trúc phụ lục
+## Các thời kỳ trong phụ lục
 
-| File | Nội dung | Dùng khi |
+| Viết tắt | Thời kỳ | Năm |
 |---|---|---|
-| `01_NIEN_BIEU_HOANG_TRIEU.md` | Niên hiệu nhà Trần, sự kiện lịch sử 1279–1292 | Tò mò "năm đó nước có gì?" |
-| `02_DANH_XUONG_GIAO_TIEP.md` | Cách gọi nhau: cha, mẹ, nàng, chàng, quan lang... | Gặp cách xưng hô lạ |
-| `03_DIA_DANH_BAN_DO.md` | Chu Đậu, Nam Sách, Thăng Long, Yên Tử... | Hình dung các nơi trong truyện |
-| `04_Y_DAO_THUOC_NAM.md` | "Nam Dược Trị Nam Nhân", phép nấu thuốc, các vị thuốc | Gặp thuật ngữ y thuật |
-| `05_NGHE_GOM_CHU_DAU.md` | Quy trình làm gốm, men Hoa Nâu, tên lỗi gốm | Hiểu nghề gốm |
-| `06_PHONG_THUC_DOI_SONG.md` | Canh giờ, đơn vị đo, tiền tệ, lễ Tết, đồ vật TK13 | Gặp đo lường/phong tục lạ |
-| `07_TIN_NGUONG_LE_HOI.md` | Tế Trời, thờ tổ, Thành Hoàng, lễ hội quanh năm | Gặp nghi lễ, lễ hội |
-| `08_QUY_TAC_VAN_HOA_VAT_LIEU.md` | Ranh giới hư cấu/sử, nguồn tham khảo | Muốn biết cái gì thật, cái gì hư cấu |
+| **TK10** | Loạn 12 sứ quân → nhà Đinh | 944–968 |
+| **Đầu Trần** | Dựng nhà Trần, chống Mông lần 1 | 1226–1258 |
+| **Cuối Trần** | Kháng chiến chống Nguyên, hưng thịnh | 1280–1292 |
 
-## Mục đích
-1. Giải thích **thuật ngữ** cho người đọc — tra một từ không cần lật lại truyện.
-2. Nêu **bối cảnh lịch sử – văn hoá thời Trần** để hình dung không gian truyện.
-3. Không tiết lộ diễn biến, nhân vật bí mật hay kết truyện.
+Mỗi file có cột "Thời kỳ" để tra nhanh đúng bối cảnh. Từ không ghi thời kỳ = dùng chung nhiều thời.
 
-## Quy tắc
-1. Mỗi file **độc lập** — tra riêng lẻ không cần đọc lần lượt.
-2. **Khảo chứng trước ghi thêm:** mọi hiện vật, vị thuốc, phong tục phải có nguồn, hoặc ghi rõ *hư cấu phục vụ cốt truyện*.
-3. **Cấm thêm yếu tố ngoại lai** (tôn giáo nước ngoài, Hán phục, địa danh sai niên đại) — cùng luật với bản thảo.
+## Các file tra cứu
+
+| File | Nội dung |
+|---|---|
+| `01_NIEN_BIEU_HOANG_TRIEU.md` | Niên biểu 3 thời kỳ: 12 sứ quân → đầu Trần → cuối Trần |
+| `02_DANH_XUONG_GIAO_TIEP.md` | Danh xưng, chức tước, canh giờ, cụm từ cổ |
+| `03_DIA_DANH_BAN_DO.md` | Địa danh các thời kỳ + sơ đồ không gian |
+| `04_Y_DAO_THUOC_NAM.md` | Y thuật, vị thuốc, thuật ngữ kỳ án & trinh sát cổ |
+| `05_NGHE_GOM_CHU_DAU.md` | Nghề gốm + nghề rèn, muối, đê qua các thời |
+| `06_PHONG_THUC_DOI_SONG.md` | Đo lường, tiền tệ, món ăn, đồ vật, lễ hội |
+| `07_TIN_NGUONG_LE_HOI.md` | Tế Trời, thờ Tổ, Thành Hoàng, lễ hội quanh năm |
+| `08_QUY_TAC_VAN_HOA_VAT_LIEU.md` | Ranh giới hư cấu/sử, nguồn tham khảo |
+
+## Nguyên tắc chung
+1. **Chỉ thuật ngữ & bối cảnh** — không tóm tắt truyện, không hé lộ ý tưởng.
+2. **Khảo chứng trước ghi thêm** — mọi hiện vật, vị thuốc, phong tục phải có nguồn, hoặc ghi rõ *hư cấu phục vụ cốt truyện*.
+3. **Cấm yếu tố ngoại lai** — tôn giáo nước ngoài, Hán phục, địa danh sai niên đại, đồ vật sai thời đại.
